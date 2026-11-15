@@ -1,0 +1,3 @@
+El analizador lexico por defecto lee este texto y lo devuelve sin modificaciones en la consola. A continuacion se muestra una prueba con ciertos caracteres:
+	- Caracteres especiales: @ # $ % & * ( ) _ + - = { } [ ] ; : " ' < > , . ? /
+	- Numeros de prueba: 0123456789

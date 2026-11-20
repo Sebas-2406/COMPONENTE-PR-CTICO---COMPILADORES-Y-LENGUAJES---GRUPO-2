@@ -1,0 +1,8 @@
+int contador1 = 25;
+if (contador1) {
+    while (100) {
+        total_suma = 50;
+    }
+} else {
+    aux = 0;
+}

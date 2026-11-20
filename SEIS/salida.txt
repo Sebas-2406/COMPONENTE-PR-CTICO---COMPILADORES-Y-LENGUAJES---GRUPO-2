@@ -1,0 +1,12 @@
+Token: Palabra Reservada (Tipo de Dato)	- Lexema: int
+Token: Identificador			- Lexema: contador1
+Token: Numero Entero			- Lexema: 25
+Token: Palabra Reservada (Condicional)	- Lexema: if
+Token: Identificador			- Lexema: contador1
+Token: Palabra Reservada (Bucle)		- Lexema: while
+Token: Numero Entero			- Lexema: 100
+Token: Identificador			- Lexema: total_suma
+Token: Numero Entero			- Lexema: 50
+Token: Palabra Reservada (Condicional)	- Lexema: else
+Token: Identificador			- Lexema: aux
+Token: Numero Entero			- Lexema: 0

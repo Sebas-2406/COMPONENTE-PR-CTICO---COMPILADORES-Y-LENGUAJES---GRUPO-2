@@ -1,0 +1,5 @@
+==========RESUMEN DE CLASIFICACION==========
+Letras mayusculas: 5
+Letras minusculas: 20
+Digitos: 9
+Espacios en blanco: 6

@@ -1,0 +1,10 @@
+Tipo: Operador Aritmetico (Suma)		- Lexema: +
+Tipo: Operador Aritmetico (Resta)		- Lexema: -
+Tipo: Operador Aritmetico (Multiplicacion)	- Lexema: *
+Tipo: Operador Aritmetico (Division)		- Lexema: /
+Tipo: Operador Relacional (Menor)		- Lexema: <
+Tipo: Operador Relacional (Menor o igual)	- Lexema: <=
+Tipo: Operador Relacional (Mayor)		- Lexema: >
+Tipo: Operador Relacional (Mayor o igual)	- Lexema: >=
+Tipo: Operador Relacional (Igualdad)		- Lexema: ==
+Tipo: Operador Relacional (Desigualdad)		- Lexema: !=

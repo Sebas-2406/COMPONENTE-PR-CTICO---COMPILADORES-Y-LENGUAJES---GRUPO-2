@@ -1,0 +1,10 @@
+==========CONVERSION HEXADECIMAL A DECIMAL==========
+Hexadecimal: 0xC -> Decimal: 12
+Hexadecimal: 0x7EA -> Decimal: 2026
+Hexadecimal: 0x1A3F -> Decimal: 6719
+Hexadecimal: 0xFF -> Decimal: 255
+Hexadecimal: 0X2b -> Decimal: 43
+Hexadecimal: 0x0 -> Decimal: 0
+Hexadecimal: 0xA -> Decimal: 10
+Hexadecimal: 0x100 -> Decimal: 256
+====================================================

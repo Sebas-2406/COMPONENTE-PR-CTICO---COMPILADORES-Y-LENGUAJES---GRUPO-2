@@ -1,0 +1,16 @@
+==========PROCESADOR DE LISTAS==========
+Identificador: EPN2026
+Separador: ,
+Numero entero: 2026
+Separador: ,
+Identificador: dato1
+Separador: ,
+Error: falta elemento al final de la lista
+----------------------------------------
+Error: token no valido -> 3.14
+Separador: ,
+Error: token no valido -> 12abc
+Separador: ,
+Error: token no valido -> @error
+----------------------------------------
+========================================

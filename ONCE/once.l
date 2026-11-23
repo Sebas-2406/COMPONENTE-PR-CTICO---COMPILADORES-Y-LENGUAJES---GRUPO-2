@@ -5,7 +5,7 @@
 /* Contador de binarios reconocidos */
 int totalBinarios = 0;
 
-/* Conversion manual de cadena binaria a decimal */
+/* Conversion de cadena binaria a decimal */
 unsigned long long convertirBinarioADecimal(const char *cadena)
 {
     unsigned long long valorDecimal = 0;

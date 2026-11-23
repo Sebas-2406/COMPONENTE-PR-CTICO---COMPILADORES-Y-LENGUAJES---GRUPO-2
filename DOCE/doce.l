@@ -38,8 +38,7 @@ unsigned long long convertirHexadecimalADecimal(const char *cadena)
 0[xX][0-9a-fA-F]+               {
                                     /* Conversion y despliegue del valor decimal */
                                     unsigned long long valorDecimal = convertirHexadecimalADecimal(yytext);
-                                    printf("Hexadecimal: %s -> Decimal: %llu\n", yytext, valorDecimal);
-                                    totalHexadecimales++;
+                                    printf("Hexadecimal: %s -> Decimal: %llu\n", yytext, valorDecimal);                
                                 }
 [a-zA-Z0-9_]+\.[a-zA-Z0-9_]+    { /* Omision de numeros con punto decimal */ }
 [a-zA-Z0-9_]+                   { /* Omision de tokens no hexadecimales */ }

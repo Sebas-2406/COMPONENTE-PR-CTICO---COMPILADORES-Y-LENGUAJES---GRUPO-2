@@ -1,6 +1,6 @@
 /* Declaraciones */
 %{
-	#include<stdio.h>  //  
+	#include<stdio.h>   
 %}
 
 /*Comprobar si una cadena es un numero, identificador o numero en notacion exponencial*/

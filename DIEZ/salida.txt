@@ -1,0 +1,7 @@
+Token: Correo Electronico Valido	- Lexema: usuario@gmail.com
+Token: Correo Electronico Valido	- Lexema: estudiante@epn.edu.ec
+Token: Correo Electronico Valido	- Lexema: bryan123@hotmail.com
+Token: Correo Electronico No Valido	- Lexema: correo_invalido
+Token: Correo Electronico No Valido	- Lexema: nombre@dominio
+Token: Correo Electronico No Valido	- Lexema: @dominio.com
+Token: Correo Electronico Valido	- Lexema: prueba123@yahoo.es

@@ -2,7 +2,7 @@
 /* Declaraciones */
 #include <stdio.h>
 
-/* Conversion manual de cadena hexadecimal a decimal */
+/* Conversion de cadena hexadecimal a decimal */
 unsigned long long convertirHexadecimalADecimal(const char *cadena)
 {
     unsigned long long valorDecimal = 0;

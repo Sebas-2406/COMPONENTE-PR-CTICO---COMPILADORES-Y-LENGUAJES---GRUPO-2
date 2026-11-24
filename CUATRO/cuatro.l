@@ -1,6 +1,6 @@
 /* Declaraciones */
 %{
-	#include<stdlib.h>  // Necesaria para ocupar 'printf' 
+	#include<stdio.h>  //  
 %}
 
 /*Comprobar si una cadena es un numero, identificador o numero en notacion exponencial*/

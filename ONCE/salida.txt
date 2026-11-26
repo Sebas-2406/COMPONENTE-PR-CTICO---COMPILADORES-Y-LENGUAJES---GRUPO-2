@@ -1,0 +1,10 @@
+==========CONVERSION BINARIO A DECIMAL==========
+Binario: 11111101010 -> Decimal: 2026
+Binario: 1010 -> Decimal: 10
+Binario: 11001 -> Decimal: 25
+Binario: 11111111 -> Decimal: 255
+Binario: 0 -> Decimal: 0
+Binario: 1 -> Decimal: 1
+Binario: 101010 -> Decimal: 42
+================================================
+Total de numeros binarios reconocidos: 7
